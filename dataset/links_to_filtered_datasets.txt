@@ -1,0 +1,5 @@
+Nov. 23
+    - filter faces (size = 20)
+    - resize faces (64 * 64)
+    - flip incorrectly masked faces (balance distribution)
+    Url: https://drive.google.com/file/d/1nO9S-6Wh7iHHou3yEOdSMmAYO4CwK1il/view?usp=sharing
