@@ -7,6 +7,15 @@
     *   ./yolo/data/yolov4_coco_pretrained_weights.pth
  - Weights of our best YOLO model (mAP 63.47%)
     *   ./yolo/data/yolov4_test.pth
+ - vgg 16 model (for OpenCV demo) 
+    *   ./vgg.pth
+    
+#### **Transfer learning notes**
+ - Before you run the Transfer_learning.ipynb, please make sure to download the dataset folder from the google drive and put it in the project root path
+ 
+#### **Opencv_demo notes** 
+ - You can either use the vgg model from the google drive to run the demo, or run the Transfer_learning.ipynb and save a model (Resnet 50 or vgg 16). 
+
 
 #### **YOLO method notes**
  - ./yolo/
