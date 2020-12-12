@@ -1,11 +1,9 @@
 """
 Detect images with the trained YOLO model
 
-Original Author: Bubbliiiing
+Author: Bubbliiiing
 
-Github link: https://github.com/bubbliiiing/yolov4-pytorch/blob/master/train.py
-
-Comments By: Hammond Liu (hl3797)
+Github link: https://github.com/bubbliiiing/yolov4-pytorch/blob/master/yolo.py
 """
 
 import cv2
@@ -24,7 +22,7 @@ class YOLO(object):
 
     # Set pathes & Initialize parameters
     _defaults = {
-        "model_path": './data/yolov4_maskdetect_weights_test_.pth',
+        "model_path": './data/yolov4_test.pth',
         "anchors_path": './data/anchors.txt',
         "classes_path": './data/classes.txt',
         "model_image_size" : (416, 416, 3),

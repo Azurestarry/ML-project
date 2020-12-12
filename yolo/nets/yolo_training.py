@@ -1,7 +1,7 @@
 """
 Author: Bubbliiiing
 
-Github link: https://github.com/bubbliiiing/yolov4-pytorch/
+Github link: https://github.com/bubbliiiing/yolov4-pytorch/blob/master/nets/yolo_training.py
 """
   
 from random import shuffle

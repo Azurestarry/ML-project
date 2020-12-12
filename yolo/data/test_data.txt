@@ -1,157 +1,157 @@
-./../preprocessing/dataset/images/maksssksksss393.png 44,88,161,206,1 241,261,365,390,1
-./../preprocessing/dataset/images/maksssksksss214.png 14,61,61,110,1 151,96,176,121,1 166,110,199,149,1 241,109,266,135,1 286,58,331,112,1 277,75,288,87,1 244,82,254,91,1
-./../preprocessing/dataset/images/maksssksksss495.png 1,47,26,97,0 77,24,134,98,2 99,174,168,224,1 170,64,224,125,0 224,70,267,121,1 274,61,330,122,0 291,189,356,224,1 329,117,388,181,1 351,53,389,92,0
-./../preprocessing/dataset/images/maksssksksss113.png 133,108,148,124,1 203,117,214,131,1 294,115,308,130,1 228,119,241,134,0
-./../preprocessing/dataset/images/maksssksksss566.png 101,76,128,101,1 237,73,255,89,2 195,70,210,103,1 267,74,290,99,1 13,82,25,92,1 37,87,48,100,1 1,87,14,99,1
-./../preprocessing/dataset/images/maksssksksss521.png 178,35,265,133,0
-./../preprocessing/dataset/images/maksssksksss219.png 120,122,184,194,1 266,92,323,151,1
-./../preprocessing/dataset/images/maksssksksss631.png 4,50,20,66,1 49,53,63,68,1 85,55,100,70,1 105,35,118,51,1 127,43,141,60,1 169,49,184,66,1 220,47,234,63,1 255,58,268,72,1 291,56,305,71,1 327,67,344,81,1 373,58,391,75,1
-./../preprocessing/dataset/images/maksssksksss662.png 49,80,67,97,1 96,47,110,62,1 213,57,230,77,1 350,43,372,67,1
-./../preprocessing/dataset/images/maksssksksss514.png 28,78,43,99,1 160,66,176,83,1 174,33,186,52,1 202,40,216,59,1 237,41,248,58,0 249,44,266,66,2 298,38,311,54,1 333,51,346,70,1 375,47,386,63,1 386,44,400,64,2
-./../preprocessing/dataset/images/maksssksksss237.png 50,56,64,71,1 191,37,232,83,1
-./../preprocessing/dataset/images/maksssksksss399.png 305,93,334,135,1 324,84,351,111,1 191,98,228,134,1 155,60,183,96,1 106,70,129,98,1 51,54,81,90,1 236,54,275,87,1 267,56,298,91,0
-./../preprocessing/dataset/images/maksssksksss744.png 83,81,112,113,1 133,73,139,81,1
-./../preprocessing/dataset/images/maksssksksss425.png 203,122,349,266,1
-./../preprocessing/dataset/images/maksssksksss560.png 179,126,219,165,1
-./../preprocessing/dataset/images/maksssksksss321.png 170,82,212,145,0 215,70,281,151,1
-./../preprocessing/dataset/images/maksssksksss98.png 196,43,236,91,1 41,73,65,95,1 263,62,287,85,1 344,80,377,106,1
-./../preprocessing/dataset/images/maksssksksss617.png 157,108,244,208,1
-./../preprocessing/dataset/images/maksssksksss261.png 36,149,69,181,1 207,64,239,99,1 213,234,259,277,1 125,156,159,194,0 137,100,172,135,0 136,25,166,46,0
-./../preprocessing/dataset/images/maksssksksss691.png 316,105,360,134,1 258,75,287,110,1 232,74,261,105,1 204,64,232,93,1 163,66,188,94,1 152,62,166,89,1 138,67,152,90,1 112,43,134,67,1 94,56,116,78,1 42,64,55,79,1 3,54,18,72,1
-./../preprocessing/dataset/images/maksssksksss192.png 112,40,157,87,1
-./../preprocessing/dataset/images/maksssksksss177.png 276,76,324,118,1 154,147,199,194,1
-./../preprocessing/dataset/images/maksssksksss81.png 27,46,123,154,1 145,99,229,190,1 275,82,362,174,1
-./../preprocessing/dataset/images/maksssksksss798.png 185,62,272,130,1 164,238,262,322,1
-./../preprocessing/dataset/images/maksssksksss389.png 123,148,188,217,1 1,231,57,295,1 15,67,62,116,1 114,74,159,116,1 236,80,293,135,1 191,30,233,78,1 279,10,317,52,1 1,84,21,117,1 330,18,368,53,1 246,13,273,47,1 163,44,191,75,0 339,59,393,111,0
-./../preprocessing/dataset/images/maksssksksss475.png 45,69,73,96,1 109,80,134,109,1 164,64,198,100,1 243,96,267,127,1 303,84,339,130,0 350,67,372,105,1
-./../preprocessing/dataset/images/maksssksksss84.png 64,129,110,174,1 166,136,222,196,1 383,126,430,184,1
-./../preprocessing/dataset/images/maksssksksss224.png 214,112,298,200,1
-./../preprocessing/dataset/images/maksssksksss243.png 112,93,206,219,1
-./../preprocessing/dataset/images/maksssksksss376.png 58,48,94,88,1 144,17,154,33,1 191,29,210,51,1 229,15,242,31,1 318,77,330,94,1 338,72,349,84,1 350,79,377,102,1
-./../preprocessing/dataset/images/maksssksksss547.png 84,39,100,56,1 192,31,212,51,1 315,48,332,68,1
-./../preprocessing/dataset/images/maksssksksss151.png 59,131,64,138,0 82,127,89,134,1 101,142,105,146,1 111,132,116,138,1 126,131,132,138,1 134,134,139,140,1 143,134,149,139,1 170,142,180,152,2 225,105,235,117,1 278,100,288,113,1
-./../preprocessing/dataset/images/maksssksksss7.png 253,116,342,210,1 152,96,222,174,1 120,134,173,194,1 118,66,135,90,0
-./../preprocessing/dataset/images/maksssksksss314.png 1,33,38,89,1 59,38,93,83,1 169,61,201,102,1 348,57,380,95,1 214,112,236,130,1 301,133,320,152,1 325,133,346,156,1 251,137,272,156,1 236,125,255,145,1
-./../preprocessing/dataset/images/maksssksksss405.png 101,264,182,370,1
-./../preprocessing/dataset/images/maksssksksss326.png 164,77,230,152,1 192,116,276,183,1
-./../preprocessing/dataset/images/maksssksksss767.png 116,36,144,71,1
-./../preprocessing/dataset/images/maksssksksss69.png 145,93,280,241,1
-./../preprocessing/dataset/images/maksssksksss59.png 94,133,109,148,1 140,105,158,120,1 174,98,190,114,1 230,99,244,115,1 294,108,307,123,1
-./../preprocessing/dataset/images/maksssksksss408.png 1,66,26,94,1 19,46,44,73,1 76,38,104,61,0 129,37,148,55,1 154,34,182,52,1 151,64,180,89,1 51,64,94,106,1 195,64,228,92,1 309,77,344,112,1 256,45,283,69,0
-./../preprocessing/dataset/images/maksssksksss848.png 141,58,159,78,1 186,73,201,88,1 348,8,377,54,1 356,76,361,84,1
-./../preprocessing/dataset/images/maksssksksss404.png 112,214,183,319,0
-./../preprocessing/dataset/images/maksssksksss804.png 72,31,94,51,1 107,91,125,108,1 177,45,196,63,1 357,43,374,60,1 269,50,284,64,1 237,46,251,58,1 221,54,232,66,1 26,45,37,55,1 112,34,122,45,1 132,43,140,52,1 152,45,160,53,1 386,49,393,56,1
-./../preprocessing/dataset/images/maksssksksss129.png 106,69,124,89,0 149,30,168,53,0 246,40,271,69,1
-./../preprocessing/dataset/images/maksssksksss607.png 67,70,146,161,1 239,81,357,175,1
-./../preprocessing/dataset/images/maksssksksss148.png 1,20,81,136,1 68,95,124,157,0 116,104,140,144,0 151,89,247,205,1 325,77,397,156,0 243,120,283,179,1
-./../preprocessing/dataset/images/maksssksksss774.png 66,32,104,72,1 122,80,173,138,1 257,30,301,86,1
-./../preprocessing/dataset/images/maksssksksss670.png 159,55,194,94,1 219,89,245,120,1 137,114,172,142,1 311,86,327,105,1
-./../preprocessing/dataset/images/maksssksksss660.png 132,141,232,264,0
-./../preprocessing/dataset/images/maksssksksss304.png 202,61,246,103,1 190,115,224,150,1
-./../preprocessing/dataset/images/maksssksksss295.png 92,76,168,162,1
-./../preprocessing/dataset/images/maksssksksss754.png 14,140,32,161,1 113,113,131,137,1 165,116,183,137,1 206,89,228,114,1
-./../preprocessing/dataset/images/maksssksksss779.png 23,43,59,82,1 77,20,112,61,1 139,41,163,71,1 189,71,212,98,1 323,77,335,97,1
-./../preprocessing/dataset/images/maksssksksss118.png 138,79,176,116,1 217,70,255,107,1
-./../preprocessing/dataset/images/maksssksksss64.png 99,44,116,64,1 151,41,171,61,1 306,21,326,42,1 354,32,357,38,1 275,32,277,35,0 243,34,246,37,1 207,38,208,40,1 216,37,218,39,1 217,36,219,39,1 226,35,227,37,1 230,36,231,38,1
-./../preprocessing/dataset/images/maksssksksss520.png 42,173,154,304,1
-./../preprocessing/dataset/images/maksssksksss286.png 76,72,113,110,1 236,94,274,134,1
-./../preprocessing/dataset/images/maksssksksss319.png 68,67,76,77,1 109,68,119,81,0 131,66,143,79,0 148,75,164,92,1 182,60,200,82,1 193,70,200,83,0 209,68,225,87,1 226,80,234,91,0 234,79,249,95,1 285,82,302,99,1 367,66,373,85,0
-./../preprocessing/dataset/images/maksssksksss101.png 48,294,164,400,1
-./../preprocessing/dataset/images/maksssksksss727.png 64,176,166,301,1
-./../preprocessing/dataset/images/maksssksksss704.png 1,162,74,246,1 49,87,85,138,1 114,92,172,156,1 65,45,107,101,1 187,120,268,202,1 252,22,296,71,1 338,15,380,74,1 329,138,390,204,1
-./../preprocessing/dataset/images/maksssksksss123.png 92,106,191,224,1 227,129,321,229,1
-./../preprocessing/dataset/images/maksssksksss367.png 241,60,271,97,1
-./../preprocessing/dataset/images/maksssksksss262.png 151,179,260,316,1
-./../preprocessing/dataset/images/maksssksksss24.png 105,76,161,116,2
-./../preprocessing/dataset/images/maksssksksss35.png 132,44,208,123,1 330,67,375,114,1
-./../preprocessing/dataset/images/maksssksksss60.png 78,176,178,304,1
-./../preprocessing/dataset/images/maksssksksss19.png 1,45,18,68,0 89,38,115,62,1 161,20,195,54,0 104,104,182,175,1 309,77,375,136,1 267,14,287,32,0
-./../preprocessing/dataset/images/maksssksksss264.png 21,54,90,119,1 165,18,194,47,1 145,89,195,139,1 110,218,233,267,1 275,88,320,136,1 244,18,274,48,1 338,12,374,48,1
-./../preprocessing/dataset/images/maksssksksss352.png 144,68,190,110,1 48,90,91,133,0
-./../preprocessing/dataset/images/maksssksksss639.png 32,35,89,96,1 241,56,261,77,1 336,47,367,80,1 186,62,200,93,1
-./../preprocessing/dataset/images/maksssksksss737.png 28,55,46,71,1 98,62,111,78,1 159,50,193,90,2 293,59,313,80,1 352,51,372,72,1 228,53,241,73,1
-./../preprocessing/dataset/images/maksssksksss306.png 143,181,254,321,1
-./../preprocessing/dataset/images/maksssksksss632.png 94,57,167,131,1
-./../preprocessing/dataset/images/maksssksksss33.png 114,47,143,75,1
-./../preprocessing/dataset/images/maksssksksss624.png 95,195,193,338,0
-./../preprocessing/dataset/images/maksssksksss459.png 60,67,115,117,1 185,77,239,134,2
-./../preprocessing/dataset/images/maksssksksss53.png 82,63,103,87,1 194,30,216,56,1 200,91,234,128,1
-./../preprocessing/dataset/images/maksssksksss202.png 15,158,35,187,1 46,126,70,153,1 92,99,120,132,1 180,127,213,165,1 300,135,332,169,1 348,154,371,181,1
-./../preprocessing/dataset/images/maksssksksss132.png 106,72,190,182,2
-./../preprocessing/dataset/images/maksssksksss446.png 78,49,395,386,1
-./../preprocessing/dataset/images/maksssksksss415.png 86,127,179,234,1
-./../preprocessing/dataset/images/maksssksksss122.png 201,38,345,213,1
-./../preprocessing/dataset/images/maksssksksss168.png 40,74,62,90,0 35,116,51,133,1 85,79,97,90,1 169,66,287,188,1 363,51,384,81,0
-./../preprocessing/dataset/images/maksssksksss591.png 137,101,195,172,1
-./../preprocessing/dataset/images/maksssksksss284.png 57,25,76,44,1 110,2,127,20,1 81,57,100,80,1 131,22,153,46,1 151,1,164,14,1 188,6,202,21,1 313,26,375,96,1
-./../preprocessing/dataset/images/maksssksksss569.png 161,97,197,149,1
-./../preprocessing/dataset/images/maksssksksss474.png 1,163,32,198,1 49,159,76,183,1 154,45,178,67,1 238,21,260,47,1
-./../preprocessing/dataset/images/maksssksksss465.png 231,42,297,128,1
-./../preprocessing/dataset/images/maksssksksss320.png 20,51,30,64,0 107,21,126,44,1 185,89,201,108,1 335,10,357,36,1
-./../preprocessing/dataset/images/maksssksksss112.png 90,84,138,131,2
-./../preprocessing/dataset/images/maksssksksss841.png 134,184,223,296,0
-./../preprocessing/dataset/images/maksssksksss396.png 24,118,55,151,1 83,140,116,176,1 167,97,210,142,1 269,142,291,165,1 310,86,366,135,0
-./../preprocessing/dataset/images/maksssksksss201.png 33,82,76,127,1 59,64,88,98,1 36,40,55,61,1 101,70,162,132,1 69,29,89,49,1 223,91,265,127,1 240,28,268,52,1 286,56,318,90,1 370,36,398,65,1 1,45,16,70,1
-./../preprocessing/dataset/images/maksssksksss173.png 48,94,72,116,1 331,77,356,106,2
-./../preprocessing/dataset/images/maksssksksss276.png 122,38,222,160,2 274,112,310,153,0
-./../preprocessing/dataset/images/maksssksksss585.png 7,116,55,163,0 110,112,161,161,1 162,134,227,210,1 229,120,255,160,0 267,143,326,200,1 343,129,400,183,0
-./../preprocessing/dataset/images/maksssksksss335.png 12,153,125,293,1
-./../preprocessing/dataset/images/maksssksksss576.png 105,70,180,155,1 176,79,259,175,1
-./../preprocessing/dataset/images/maksssksksss626.png 69,100,214,267,1
-./../preprocessing/dataset/images/maksssksksss233.png 109,117,180,198,1
-./../preprocessing/dataset/images/maksssksksss693.png 156,47,183,80,2 90,39,123,72,1
-./../preprocessing/dataset/images/maksssksksss684.png 80,55,102,80,1 174,71,192,90,1 228,79,243,98,1 282,75,296,90,0 365,61,374,70,0
-./../preprocessing/dataset/images/maksssksksss757.png 104,182,220,317,0
-./../preprocessing/dataset/images/maksssksksss595.png 46,78,65,96,1 118,75,134,93,1 157,76,173,96,1 175,68,191,87,1 243,77,260,96,1 294,78,311,98,1
-./../preprocessing/dataset/images/maksssksksss218.png 139,223,251,371,0
-./../preprocessing/dataset/images/maksssksksss733.png 143,72,271,199,1
-./../preprocessing/dataset/images/maksssksksss583.png 274,54,345,133,1 157,67,237,164,1 34,57,106,132,1
-./../preprocessing/dataset/images/maksssksksss703.png 17,85,59,129,1 67,94,96,125,0 96,167,139,208,0 174,91,207,128,1 212,69,238,100,1 247,78,285,107,0 312,82,331,112,1 331,93,371,135,1 384,116,400,156,0 280,197,331,241,1
-./../preprocessing/dataset/images/maksssksksss357.png 219,35,263,85,1
-./../preprocessing/dataset/images/maksssksksss414.png 119,81,147,117,1 103,42,123,60,1 203,23,226,48,1 314,15,342,46,1
-./../preprocessing/dataset/images/maksssksksss88.png 42,176,151,304,1
-./../preprocessing/dataset/images/maksssksksss165.png 15,111,114,219,1 324,135,410,238,1
-./../preprocessing/dataset/images/maksssksksss619.png 151,115,172,135,1 241,126,262,146,1 305,125,317,139,0
-./../preprocessing/dataset/images/maksssksksss111.png 17,182,35,202,1 17,101,25,116,1 48,98,61,113,1 17,127,27,144,0 5,133,14,152,0 109,59,132,82,1 140,64,161,85,1 184,68,207,93,1 248,73,267,95,1 291,65,314,90,1 383,96,397,110,1 383,125,398,145,0
-./../preprocessing/dataset/images/maksssksksss291.png 136,259,200,359,1
-./../preprocessing/dataset/images/maksssksksss552.png 155,37,228,111,1
-./../preprocessing/dataset/images/maksssksksss9.png 148,75,201,133,2 27,78,56,106,0
-./../preprocessing/dataset/images/maksssksksss294.png 63,59,77,82,1 131,81,151,102,1 202,78,223,100,1 293,72,315,95,1 343,71,354,99,1 271,73,278,82,0 236,91,243,99,0 236,76,243,83,0 264,76,268,82,1 281,72,286,78,1
-./../preprocessing/dataset/images/maksssksksss450.png 65,100,101,137,1 175,110,207,148,1 208,67,240,102,1 327,95,360,130,1
-./../preprocessing/dataset/images/maksssksksss253.png 118,41,161,91,1 191,76,208,96,1 174,125,203,156,1 209,124,237,151,1 194,181,233,216,1 287,144,327,179,2 226,86,238,98,0 155,83,172,103,0 32,57,49,89,0 385,77,400,93,0
-./../preprocessing/dataset/images/maksssksksss713.png 244,70,348,183,1
-./../preprocessing/dataset/images/maksssksksss62.png 80,180,212,356,1
-./../preprocessing/dataset/images/maksssksksss51.png 114,159,213,286,0
-./../preprocessing/dataset/images/maksssksksss666.png 21,12,103,114,1 188,100,283,204,1 298,2,398,91,2
-./../preprocessing/dataset/images/maksssksksss736.png 114,40,142,76,1 183,57,221,99,1
-./../preprocessing/dataset/images/maksssksksss68.png 141,187,237,307,0
-./../preprocessing/dataset/images/maksssksksss80.png 214,54,291,132,1
-./../preprocessing/dataset/images/maksssksksss722.png 19,89,37,107,1 45,79,64,103,1 97,81,113,101,1 175,80,193,103,1 158,83,170,99,1 210,93,224,108,1 244,93,252,104,1 269,87,286,104,1 308,88,322,103,1
-./../preprocessing/dataset/images/maksssksksss167.png 45,69,96,113,1 185,113,222,155,1 271,32,311,75,1 20,90,30,105,1
-./../preprocessing/dataset/images/maksssksksss371.png 160,37,263,154,2
-./../preprocessing/dataset/images/maksssksksss546.png 27,177,140,311,1
-./../preprocessing/dataset/images/maksssksksss501.png 1,41,43,125,1 48,39,118,124,1 162,47,221,123,1 242,30,298,105,1 301,51,351,118,1 357,65,401,132,1
-./../preprocessing/dataset/images/maksssksksss67.png 78,58,92,75,1 153,48,167,65,1 234,68,247,86,1 292,64,305,86,1
-./../preprocessing/dataset/images/maksssksksss846.png 158,43,191,85,1
-./../preprocessing/dataset/images/maksssksksss735.png 3,29,49,79,1 121,68,152,103,1 164,40,178,60,1 195,39,222,70,1 352,52,367,68,1 379,54,392,71,0 305,46,322,65,0 281,44,296,63,0 249,42,266,67,0 75,47,97,69,0 58,51,68,62,0
-./../preprocessing/dataset/images/maksssksksss601.png 84,163,184,300,1
-./../preprocessing/dataset/images/maksssksksss242.png 156,80,222,155,1
-./../preprocessing/dataset/images/maksssksksss717.png 1,95,76,172,2 76,128,142,185,0 231,85,278,159,1 297,91,376,169,1
-./../preprocessing/dataset/images/maksssksksss267.png 161,23,185,45,1 225,18,247,42,1 197,75,216,100,1 272,114,295,138,1
-./../preprocessing/dataset/images/maksssksksss239.png 91,208,189,317,0
-./../preprocessing/dataset/images/maksssksksss174.png 44,63,95,117,1 102,60,142,104,1 196,44,250,100,1 351,54,392,102,1
-./../preprocessing/dataset/images/maksssksksss490.png 85,149,212,280,1
-./../preprocessing/dataset/images/maksssksksss161.png 123,227,190,328,0
-./../preprocessing/dataset/images/maksssksksss281.png 98,204,195,329,1
-./../preprocessing/dataset/images/maksssksksss21.png 40,137,109,218,1 54,57,111,112,1 189,78,246,140,1 311,48,358,98,1 182,32,221,60,0
-./../preprocessing/dataset/images/maksssksksss73.png 142,66,164,111,1 191,67,225,101,1 308,82,329,127,1
-./../preprocessing/dataset/images/maksssksksss50.png 206,83,238,114,1 226,51,262,82,1
-./../preprocessing/dataset/images/maksssksksss677.png 237,28,271,64,1
-./../preprocessing/dataset/images/maksssksksss529.png 12,58,45,86,1 135,53,164,83,1 170,89,182,103,0 199,85,208,94,1 215,80,224,94,1 239,53,278,91,1 336,32,386,78,1 223,97,232,107,1
-./../preprocessing/dataset/images/maksssksksss189.png 124,48,143,96,0 201,89,235,121,0 226,15,271,66,1
-./../preprocessing/dataset/images/maksssksksss20.png 93,60,153,124,1
-./../preprocessing/dataset/images/maksssksksss299.png 62,194,160,320,0
-./../preprocessing/dataset/images/maksssksksss128.png 93,183,194,295,0
-./../preprocessing/dataset/images/maksssksksss230.png 16,191,92,265,1 124,92,183,147,1 196,39,249,93,1 307,180,388,260,1 424,153,512,242,1
-./../preprocessing/dataset/images/maksssksksss667.png 6,56,70,127,1 286,68,348,139,1 344,79,400,137,1
-./../preprocessing/dataset/images/maksssksksss525.png 319,128,486,307,2
+./../dataset/images/maksssksksss577.png 106,61,117,72,1 137,67,152,80,0 188,55,203,72,1 237,70,256,88,1 279,79,297,97,1 323,69,348,92,1 384,62,400,92,1 85,71,94,81,1 74,64,83,75,1 59,65,67,75,1 44,65,54,73,1
+./../dataset/images/maksssksksss168.png 40,74,62,90,0 35,116,51,133,1 85,79,97,90,1 169,66,287,188,1 363,51,384,81,0
+./../dataset/images/maksssksksss726.png 188,67,207,89,0 256,63,277,85,1 312,89,325,105,0 356,77,369,96,0
+./../dataset/images/maksssksksss425.png 203,122,349,266,1
+./../dataset/images/maksssksksss786.png 38,222,67,247,1 91,250,131,270,1 177,71,221,107,1 244,64,297,122,2
+./../dataset/images/maksssksksss125.png 118,151,216,279,0
+./../dataset/images/maksssksksss258.png 133,43,194,108,2
+./../dataset/images/maksssksksss485.png 142,280,225,387,1
+./../dataset/images/maksssksksss610.png 117,66,141,93,1 122,124,137,139,1 192,22,227,63,1
+./../dataset/images/maksssksksss126.png 106,45,158,104,1 194,62,215,88,1 226,2,267,97,0
+./../dataset/images/maksssksksss849.png 48,52,67,70,1 95,20,109,36,1 213,29,231,50,1 354,15,375,41,1
+./../dataset/images/maksssksksss825.png 45,33,85,68,1 135,20,169,52,1 227,32,254,61,1 300,30,330,58,1
+./../dataset/images/maksssksksss665.png 1,162,76,251,1 49,88,86,140,1 63,47,107,101,1 118,94,172,156,1 187,121,267,201,1 252,21,293,69,1 339,16,369,74,1 325,138,389,201,1
+./../dataset/images/maksssksksss341.png 67,197,160,318,1
+./../dataset/images/maksssksksss143.png 102,200,194,333,1
+./../dataset/images/maksssksksss394.png 142,13,249,133,1
+./../dataset/images/maksssksksss584.png 2,44,33,81,1 83,84,112,118,1 152,104,181,136,1 218,92,243,127,1 268,94,297,121,1 316,96,342,122,1 344,92,357,112,1 359,92,381,116,0 189,74,216,98,0 250,82,266,110,0
+./../dataset/images/maksssksksss749.png 93,102,118,126,1 178,190,200,211,1
+./../dataset/images/maksssksksss216.png 8,64,43,93,1 225,44,261,93,1 208,52,225,77,1 328,48,348,66,1 138,55,169,82,0
+./../dataset/images/maksssksksss585.png 7,116,55,163,0 110,112,161,161,1 162,134,227,210,1 229,120,255,160,0 267,143,326,200,1 343,129,400,183,0
+./../dataset/images/maksssksksss288.png 28,201,52,216,1 143,93,175,126,1 198,97,229,125,1
+./../dataset/images/maksssksksss543.png 46,39,56,50,0 101,50,112,63,0 194,34,205,51,0 230,24,243,41,0 252,51,270,69,0 295,40,306,50,0 282,42,291,52,0 267,42,278,55,0 259,32,269,42,0 337,31,350,46,0
+./../dataset/images/maksssksksss617.png 157,108,244,208,1
+./../dataset/images/maksssksksss320.png 20,51,30,64,0 107,21,126,44,1 185,89,201,108,1 335,10,357,36,1
+./../dataset/images/maksssksksss403.png 96,226,199,350,1
+./../dataset/images/maksssksksss703.png 17,85,59,129,1 67,94,96,125,0 96,167,139,208,0 174,91,207,128,1 212,69,238,100,1 247,78,285,107,0 312,82,331,112,1 331,93,371,135,1 384,116,400,156,0 280,197,331,241,1
+./../dataset/images/maksssksksss708.png 1,39,54,137,1 134,62,198,138,1 209,59,276,134,1
+./../dataset/images/maksssksksss671.png 54,180,164,327,1
+./../dataset/images/maksssksksss26.png 73,87,174,206,1 245,152,327,239,1
+./../dataset/images/maksssksksss836.png 241,88,277,122,1 150,186,179,218,1 100,158,125,185,1 201,68,231,102,1 114,79,143,113,1
+./../dataset/images/maksssksksss285.png 66,99,209,235,1
+./../dataset/images/maksssksksss733.png 143,72,271,199,1
+./../dataset/images/maksssksksss797.png 13,84,27,106,1 44,57,60,77,1 76,80,90,93,1 122,69,137,87,1 190,73,206,91,1 228,82,241,100,1 281,67,295,85,1 368,61,390,97,0
+./../dataset/images/maksssksksss528.png 43,169,149,308,0
+./../dataset/images/maksssksksss100.png 189,30,245,88,1 387,54,400,75,1 118,87,163,126,1
+./../dataset/images/maksssksksss842.png 82,95,102,126,0 147,98,189,139,1 213,98,260,145,1 328,62,367,104,1
+./../dataset/images/maksssksksss833.png 150,56,223,136,1
+./../dataset/images/maksssksksss283.png 77,206,170,323,1
+./../dataset/images/maksssksksss515.png 57,198,164,330,1
+./../dataset/images/maksssksksss776.png 15,79,42,105,1 288,88,317,127,1
+./../dataset/images/maksssksksss208.png 84,82,194,170,1 192,71,298,187,1
+./../dataset/images/maksssksksss495.png 1,47,26,97,0 77,24,134,98,2 99,174,168,224,1 170,64,224,125,0 224,70,267,121,1 274,61,330,122,0 291,189,356,224,1 329,117,388,181,1 351,53,389,92,0
+./../dataset/images/maksssksksss102.png 212,57,251,106,1
+./../dataset/images/maksssksksss243.png 112,93,206,219,1
+./../dataset/images/maksssksksss98.png 196,43,236,91,1 41,73,65,95,1 263,62,287,85,1 344,80,377,106,1
+./../dataset/images/maksssksksss622.png 138,66,171,99,1 267,59,299,86,1 322,76,342,100,1 352,62,380,94,1 377,83,394,102,1
+./../dataset/images/maksssksksss234.png 175,40,220,86,1 112,101,123,112,1 3,72,12,89,1 388,122,400,133,1 341,125,352,136,1
+./../dataset/images/maksssksksss50.png 206,83,238,114,1 226,51,262,82,1
+./../dataset/images/maksssksksss621.png 14,52,68,137,0 191,35,208,54,1 162,111,192,137,1 299,46,386,141,1 218,29,235,48,1
+./../dataset/images/maksssksksss787.png 59,50,111,100,0 23,118,76,179,1 92,109,136,164,1 147,111,202,170,1 188,60,233,97,0 247,84,285,132,1 292,99,352,162,1 360,79,401,139,1
+./../dataset/images/maksssksksss358.png 91,64,126,106,1 179,65,221,109,1 268,82,300,115,1 300,86,341,125,1
+./../dataset/images/maksssksksss526.png 66,30,100,66,0 165,85,200,120,1 251,88,285,123,1 309,107,350,146,0
+./../dataset/images/maksssksksss798.png 185,62,272,130,1 164,238,262,322,1
+./../dataset/images/maksssksksss185.png 89,139,121,187,1 115,112,139,154,1 165,102,195,126,1 270,69,288,86,1
+./../dataset/images/maksssksksss153.png 89,21,112,44,1 289,21,311,44,0
+./../dataset/images/maksssksksss324.png 90,123,224,277,1
+./../dataset/images/maksssksksss759.png 91,80,140,140,1 154,103,206,163,1 273,87,339,146,0
+./../dataset/images/maksssksksss626.png 69,100,214,267,1
+./../dataset/images/maksssksksss154.png 90,200,184,333,0
+./../dataset/images/maksssksksss112.png 90,84,138,131,2
+./../dataset/images/maksssksksss407.png 102,204,202,331,1
+./../dataset/images/maksssksksss242.png 156,80,222,155,1
+./../dataset/images/maksssksksss527.png 97,21,113,40,0 26,57,46,81,0 141,111,165,137,0 190,76,219,106,1 248,54,269,72,0 244,82,270,108,0
+./../dataset/images/maksssksksss819.png 68,63,129,128,1
+./../dataset/images/maksssksksss124.png 91,146,143,204,1 239,126,290,182,1 378,146,399,171,1 1,170,20,196,0 333,133,360,170,0
+./../dataset/images/maksssksksss843.png 1,132,59,215,1 139,128,224,210,1 331,205,400,277,1
+./../dataset/images/maksssksksss778.png 57,21,88,59,1 84,108,123,147,1 176,53,202,81,1 223,36,252,70,1 315,87,379,146,1
+./../dataset/images/maksssksksss561.png 81,163,184,279,0
+./../dataset/images/maksssksksss276.png 122,38,222,160,2 274,112,310,153,0
+./../dataset/images/maksssksksss398.png 153,122,251,223,1
+./../dataset/images/maksssksksss494.png 91,80,163,158,1
+./../dataset/images/maksssksksss235.png 310,80,342,116,1 221,104,231,119,1 247,106,264,118,1 265,103,274,114,1
+./../dataset/images/maksssksksss812.png 291,54,352,113,1 165,115,213,165,1 66,91,115,136,1
+./../dataset/images/maksssksksss447.png 108,60,127,79,1 201,84,217,102,1 313,74,331,97,1
+./../dataset/images/maksssksksss0.png 79,105,109,142,0 185,100,226,144,1 325,90,360,141,0
+./../dataset/images/maksssksksss1.png 321,34,354,69,1 224,38,261,73,1 299,58,315,81,1 143,74,174,115,1 74,69,95,99,1 191,67,221,93,1 21,73,44,93,1 369,70,398,99,1 83,56,111,89,0
+./../dataset/images/maksssksksss686.png 54,173,158,299,1
+./../dataset/images/maksssksksss230.png 16,191,92,265,1 124,92,183,147,1 196,39,249,93,1 307,180,388,260,1 424,153,512,242,1
+./../dataset/images/maksssksksss782.png 202,145,228,174,2 289,86,327,127,1
+./../dataset/images/maksssksksss315.png 124,110,184,173,1 272,117,320,163,1
+./../dataset/images/maksssksksss32.png 177,46,200,70,1 305,32,338,60,1
+./../dataset/images/maksssksksss434.png 138,155,325,339,1
+./../dataset/images/maksssksksss364.png 83,56,117,95,1 179,51,212,87,1 263,62,295,101,1
+./../dataset/images/maksssksksss281.png 98,204,195,329,1
+./../dataset/images/maksssksksss736.png 114,40,142,76,1 183,57,221,99,1
+./../dataset/images/maksssksksss680.png 28,76,44,101,1 159,66,176,86,1 174,34,186,53,1 202,39,218,61,1 235,41,249,57,0 249,43,266,65,2 296,39,312,56,1 332,51,346,69,1 375,48,388,63,1 387,46,400,65,2
+./../dataset/images/maksssksksss44.png 43,139,80,182,1 140,93,188,148,1 261,47,321,120,1 332,12,394,90,0
+./../dataset/images/maksssksksss303.png 92,66,110,81,1 239,40,256,58,1
+./../dataset/images/maksssksksss455.png 115,222,225,373,0
+./../dataset/images/maksssksksss639.png 32,35,89,96,1 241,56,261,77,1 336,47,367,80,1 186,62,200,93,1
+./../dataset/images/maksssksksss682.png 69,80,107,114,1 191,73,221,106,1 311,80,346,110,1 3,53,23,77,0 108,49,134,67,1
+./../dataset/images/maksssksksss651.png 186,41,217,77,1
+./../dataset/images/maksssksksss466.png 11,89,53,149,1 71,60,122,111,1 142,117,197,167,1 265,53,310,104,1
+./../dataset/images/maksssksksss755.png 46,44,61,69,1 36,98,47,121,1 75,139,84,160,1 89,35,113,57,1 127,25,147,49,1 250,126,274,153,1 248,71,269,96,1 330,24,350,48,1
+./../dataset/images/maksssksksss472.png 220,68,256,117,1
+./../dataset/images/maksssksksss615.png 85,270,154,373,0
+./../dataset/images/maksssksksss611.png 33,36,52,63,1 96,63,114,83,1 156,85,166,104,1 243,68,258,87,1 292,76,305,94,2
+./../dataset/images/maksssksksss47.png 152,64,285,207,1
+./../dataset/images/maksssksksss768.png 4,58,15,70,1 49,21,67,40,1 80,68,98,87,1 127,57,139,71,1 204,37,219,54,1 227,113,243,129,1
+./../dataset/images/maksssksksss23.png 188,74,241,131,1
+./../dataset/images/maksssksksss652.png 30,184,142,327,1
+./../dataset/images/maksssksksss107.png 121,192,212,312,1
+./../dataset/images/maksssksksss55.png 116,141,234,291,1
+./../dataset/images/maksssksksss595.png 46,78,65,96,1 118,75,134,93,1 157,76,173,96,1 175,68,191,87,1 243,77,260,96,1 294,78,311,98,1
+./../dataset/images/maksssksksss213.png 63,183,174,313,1
+./../dataset/images/maksssksksss81.png 27,46,123,154,1 145,99,229,190,1 275,82,362,174,1
+./../dataset/images/maksssksksss263.png 50,167,87,207,0 164,124,216,185,1 305,122,362,187,1
+./../dataset/images/maksssksksss846.png 158,43,191,85,1
+./../dataset/images/maksssksksss196.png 83,250,154,362,1
+./../dataset/images/maksssksksss597.png 295,125,317,149,1 344,115,366,142,1
+./../dataset/images/maksssksksss69.png 145,93,280,241,1
+./../dataset/images/maksssksksss39.png 157,107,223,184,1 239,97,347,219,1
+./../dataset/images/maksssksksss30.png 56,41,94,81,1 119,61,146,87,0 166,59,196,83,1 220,31,249,64,1 262,66,290,95,1 292,58,318,86,0 334,131,365,161,1
+./../dataset/images/maksssksksss648.png 117,73,136,99,1 194,24,225,62,1 251,75,268,94,1
+./../dataset/images/maksssksksss43.png 116,46,172,108,1 7,121,31,147,1
+./../dataset/images/maksssksksss94.png 374,66,400,98,1 305,58,337,93,1 43,77,83,127,1 110,95,171,169,1 227,91,255,122,2 267,74,290,96,0
+./../dataset/images/maksssksksss659.png 113,97,252,251,2
+./../dataset/images/maksssksksss429.png 28,57,50,80,1 102,112,124,133,1 163,118,184,142,1 251,212,267,236,1
+./../dataset/images/maksssksksss470.png 52,28,100,75,1 95,63,123,91,1 151,58,188,101,1 276,40,304,88,1 344,56,377,90,1
+./../dataset/images/maksssksksss390.png 51,131,81,159,1 96,130,126,158,1 197,126,219,150,1 281,137,305,157,1 315,130,332,147,1 387,114,400,131,1
+./../dataset/images/maksssksksss837.png 95,151,192,261,0
+./../dataset/images/maksssksksss800.png 62,71,76,85,1 184,76,198,92,1 248,61,265,79,1 317,65,334,81,1
+./../dataset/images/maksssksksss729.png 89,284,176,400,0
+./../dataset/images/maksssksksss233.png 109,117,180,198,1
+./../dataset/images/maksssksksss180.png 58,182,165,316,1
+./../dataset/images/maksssksksss152.png 66,25,82,48,1 101,41,124,68,1 173,34,193,60,1 204,75,225,99,1 289,25,312,54,1 350,17,368,39,1 152,50,167,65,1
+./../dataset/images/maksssksksss685.png 12,37,54,79,1 147,47,197,103,1 292,55,315,80,1 381,56,400,77,1
+./../dataset/images/maksssksksss670.png 159,55,194,94,1 219,89,245,120,1 137,114,172,142,1 311,86,327,105,1
+./../dataset/images/maksssksksss170.png 102,54,239,210,1
+./../dataset/images/maksssksksss700.png 63,124,96,160,1 152,129,181,164,1
+./../dataset/images/maksssksksss264.png 21,54,90,119,1 165,18,194,47,1 145,89,195,139,1 110,218,233,267,1 275,88,320,136,1 244,18,274,48,1 338,12,374,48,1
+./../dataset/images/maksssksksss59.png 94,133,109,148,1 140,105,158,120,1 174,98,190,114,1 230,99,244,115,1 294,108,307,123,1
+./../dataset/images/maksssksksss454.png 143,97,255,211,1
+./../dataset/images/maksssksksss190.png 143,75,222,155,1
+./../dataset/images/maksssksksss22.png 183,101,270,185,1
+./../dataset/images/maksssksksss338.png 48,33,81,71,1 158,86,182,108,1 203,51,228,82,1 298,34,325,64,1 38,200,56,228,1
+./../dataset/images/maksssksksss340.png 59,1,105,55,1 133,83,195,140,0 243,85,308,147,1 458,68,527,157,1
+./../dataset/images/maksssksksss167.png 45,69,96,113,1 185,113,222,155,1 271,32,311,75,1 20,90,30,105,1
+./../dataset/images/maksssksksss300.png 82,159,180,272,1
+./../dataset/images/maksssksksss412.png 190,100,267,186,1 317,198,391,274,1
+./../dataset/images/maksssksksss483.png 115,47,157,87,1 186,90,231,130,1 307,42,347,84,1 69,64,89,81,0
+./../dataset/images/maksssksksss734.png 93,44,150,100,1
+./../dataset/images/maksssksksss533.png 101,203,205,347,1
+./../dataset/images/maksssksksss432.png 181,75,247,148,1
+./../dataset/images/maksssksksss852.png 139,94,198,147,1 92,86,132,125,0
+./../dataset/images/maksssksksss811.png 56,47,223,238,1
+./../dataset/images/maksssksksss669.png 60,121,219,301,1
+./../dataset/images/maksssksksss479.png 116,156,225,302,1
+./../dataset/images/maksssksksss691.png 316,105,360,134,1 258,75,287,110,1 232,74,261,105,1 204,64,232,93,1 163,66,188,94,1 152,62,166,89,1 138,67,152,90,1 112,43,134,67,1 94,56,116,78,1 42,64,55,79,1 3,54,18,72,1
+./../dataset/images/maksssksksss221.png 21,211,53,242,1 129,187,161,219,1 208,189,234,223,1 350,217,395,251,1 377,151,389,162,1 255,156,260,165,1 229,153,234,159,1 155,156,161,163,1 112,158,119,166,0 299,182,304,190,1
+./../dataset/images/maksssksksss582.png 160,127,321,309,1
+./../dataset/images/maksssksksss738.png 82,43,123,83,1 211,27,244,70,1
+./../dataset/images/maksssksksss375.png 259,76,277,94,0 273,192,289,210,0
+./../dataset/images/maksssksksss177.png 276,76,324,118,1 154,147,199,194,1
+./../dataset/images/maksssksksss386.png 83,43,110,75,2 139,65,167,94,1 185,70,204,89,1 228,67,248,88,1 249,76,262,90,1 262,68,273,81,1 283,73,288,80,0 290,72,295,78,0 314,75,320,81,1
+./../dataset/images/maksssksksss497.png 111,226,194,331,1
+./../dataset/images/maksssksksss742.png 152,151,256,300,1
