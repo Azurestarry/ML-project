@@ -12,7 +12,7 @@ import numpy as np
 model = torch.load('vgg.pth',map_location=torch.device('cpu'))
 
 
-face_clsfr=cv2.CascadeClassifier('haarcascade_frontalface_alt2.xml')
+face_clsfr=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 source=cv2.VideoCapture(0)
 
