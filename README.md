@@ -21,7 +21,7 @@
     *  Evaluate a YOLO model (generate ground-truth files and detection-results files).
  - ./yolo/yolo.py
     * Use the given YOLO model to make predictions.
-    * You may want to change the model weights link in this file to try out different models.
+    * You may want to change the model weights path in this file to try out different models.
  - ./yolo/data
     * Store train / val / test dataset annotations.
     * Store classes and anchors data.
