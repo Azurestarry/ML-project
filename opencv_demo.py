@@ -8,19 +8,9 @@ import cv2
 import matplotlib as plt
 import numpy as np
 
+# load the model
+model = torch.load('vgg.pth',map_location=torch.device('cpu'))
 
-model = torch.load('model.pth',map_location=torch.device('cpu'))
-
-# img = cv2.imread('2.png')
-# img = cv2.resize(img,(64,64))
-
-# img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-# img = img.transpose((2, 0, 1))
-# img = torch.as_tensor(img, dtype=torch.float32)/255
-# img = img.view(1, 3, 64,64)
-# output = model(img)
-# pred = output.argmax(dim=1, keepdim=True)
-# print(output)
 
 face_clsfr=cv2.CascadeClassifier('haarcascade_frontalface_alt2.xml')
 
@@ -40,17 +30,22 @@ while(True):
 
     for x,y,w,h in faces:
         face_img=img[y:y+w,x:x+w]
+
+        # resize image and normalize it 
         resized=cv2.resize(face_img,(64,64))
         resized = cv2.cvtColor(resized, cv2.COLOR_BGR2RGB)
         resized = resized.transpose((2,0,1))
         resized = torch.as_tensor(resized,dtype = torch.float32)
         resized = (resized-0.5)/0.5
         reshaped=resized.view(1,3,64,64)
+
+        # make prediction
         result=model(reshaped)
         pred = result.argmax(dim = 1,keepdim = True)
 
         label = int(pred[0][0])
-      
+
+        # draw the box with the predicted label
         cv2.rectangle(img,(x,y),(x+w,y+h),0,2)
         cv2.rectangle(img,(x,y-40),(x+w,y),color_dict[label],-1)
         cv2.putText(
