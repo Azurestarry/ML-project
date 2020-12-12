@@ -1,7 +1,7 @@
 # Machine Learning Final Project
 
-#### **[ Models ] & [ Path ] to be downloaded from Google Drive**
- - Dataset & a pickle dump of the preprocessed data (obj_dict.dat)
+#### **[ Models ] & [ Path ] to be downloaded from [Google Drive](https://drive.google.com/drive/folders/1FCbOwFw94OynbKCR_3kjpEV4_5si5VkP?usp=sharing)**
+ - Dataset & a pickle dump of the preprocessed data (Please download all the files in this path and place them in the project root path)
     *   ./dataset/
  - Pretrained weights on COCO dataset
     *   ./yolo/data/yolov4_coco_pretrained_weights.pth
