@@ -9,7 +9,7 @@ import matplotlib as plt
 import numpy as np
 
 
-model = torch.load('transfer_learning_model.pth',map_location=torch.device('cpu'))
+model = torch.load('model.pth',map_location=torch.device('cpu'))
 
 # img = cv2.imread('2.png')
 # img = cv2.resize(img,(64,64))
@@ -44,7 +44,7 @@ while(True):
         resized = cv2.cvtColor(resized, cv2.COLOR_BGR2RGB)
         resized = resized.transpose((2,0,1))
         resized = torch.as_tensor(resized,dtype = torch.float32)
-        resized = (resized/255-0.5)/0.5
+        resized = (resized-0.5)/0.5
         reshaped=resized.view(1,3,64,64)
         result=model(reshaped)
         pred = result.argmax(dim = 1,keepdim = True)
@@ -60,7 +60,7 @@ while(True):
         break
         
         
-    cv2.imshow('LIVEDEMO',img)
+    cv2.imshow('LIVE_DEMO',img)
     key=cv2.waitKey(1)
     
     if(key==27):
